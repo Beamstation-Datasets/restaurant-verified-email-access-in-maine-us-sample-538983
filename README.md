@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Maine, US
 
-> Free BeamStation sample export with 61 rows and masked direct-contact fields.
+> Free BeamStation sample export with 74 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `538983` |
 | Location | Maine |
 | Category | Restaurants |
-| Full dataset size | 610 records |
-| Free sample size | 61 records (10.0%) |
-| Last export | 2026-04-22T10:49:31.896735+00:00 |
+| Full dataset size | 745 records |
+| Free sample size | 74 records (9.93%) |
+| Last export | 2026-04-29T12:09:03.028494+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-maine-us-sample-538983/releases/download/sample-latest/beamstation_538983_restaurants-us-me_SAMPLE_DIST.csv) |
 
 ## What is in this sample
