@@ -1,12 +1,12 @@
 {
-  "export_job_id": "dc951a30-c589-4ed5-90ab-1b1050bab18f",
+  "export_job_id": "6b758fef-ac95-431f-933b-01a7ae8754d3",
   "id_short": 538983,
-  "published_at": "2026-04-22T19:53:22Z",
+  "published_at": "2026-04-29T19:37:46Z",
   "repo_name": "restaurant-verified-email-access-in-maine-us-sample-538983",
   "sample_asset_name": "beamstation_538983_restaurants-us-me_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/538983/beamstation_538983_restaurants-us-me_SAMPLE_DIST.csv",
-  "sample_records": 61,
-  "sample_sha256": "8dbbf91114a039f651d39dab5373a77f522e5eae036a89108ec980a9977f6379",
-  "sample_size_bytes": 250564,
-  "total_records": 610
+  "sample_records": 74,
+  "sample_sha256": "3d4bb14afb65363e9cdf8a1a682aff283929856d8b4ec0708af09c285c4941da",
+  "sample_size_bytes": 277876,
+  "total_records": 745
 }
